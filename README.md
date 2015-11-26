@@ -11,5 +11,5 @@ http://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper
 
 Use
 
-- "F" to toggle between using FXAA and not using FXAA
+- "F" to toggle FXAA
 - "G" to toggle between "console" and "pc quality" FXAA functions inside the shader
